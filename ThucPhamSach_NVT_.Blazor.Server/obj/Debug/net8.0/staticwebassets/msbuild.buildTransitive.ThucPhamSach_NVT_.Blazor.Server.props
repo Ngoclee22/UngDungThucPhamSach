@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ThucPhamSach_NVT_.Blazor.Server.props" />
+</Project>

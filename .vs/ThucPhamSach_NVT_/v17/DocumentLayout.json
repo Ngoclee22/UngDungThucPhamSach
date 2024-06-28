@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS 403\\ThucPhamSach_NVT_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|d:\\cs 403\\thucphamsach_nvt_\\thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|solutionrelative:thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|d:\\cs 403\\thucphamsach_nvt_\\thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|solutionrelative:thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|d:\\cs 403\\thucphamsach_nvt_\\thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|solutionrelative:thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1code\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|d:\\cs 403\\thucphamsach_nvt_\\thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|",
+      "RelativeMoniker": "D:0:0:{F04F008D-B503-40B6-B6BA-284229EDBD30}|ThucPhamSach_NVT_.Module\\ThucPhamSach_NVT_.Module.csproj|solutionrelative:thucphamsach_nvt_.module\\businessobjects\\ormdatamodel1.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\KhuyenMai.cs",
+              "ToolTip": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\KhuyenMai.cs",
+              "RelativeToolTip": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\KhuyenMai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:14:46.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\DonHang.cs",
+              "RelativeDocumentMoniker": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\DonHang.cs",
+              "ToolTip": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\DonHang.cs",
+              "RelativeToolTip": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:47:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\ChiTietDonHang.cs",
+              "RelativeToolTip": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1Code\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:46:03.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ORMDataModel1.xpo",
+              "DocumentMoniker": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "RelativeDocumentMoniker": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "ToolTip": "D:\\CS 403\\ThucPhamSach_NVT_\\ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "RelativeToolTip": "ThucPhamSach_NVT_.Module\\BusinessObjects\\ORMDataModel1.xpo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASsSURBVEhLhVZNTFxVFP7mzZsBhg5tKRlg6J\u002BFBk2LEFtN2xBi6sJS09BgS2NdgS4gMS4IiTYmhl3VhZqm1pUx0did0YUbXVRjkxYrsfxYpFULFlqYYX6ZmTfvvZn3rufc\u002BXEKA57km3Pfufee7/y9mXFgAxn6fOaDXTt9I8IWEPQsbDuvBWxBIA3Sumni8sChxnQiEpAXS0UIsY7AW7dz\u002B9m3Pr1wurtrZF\u002BjN2dkzyXCjyrdfBgz8eX3s7g68rw/o8WWc7uPi5LXUhTVpfYOX7rw8smuoRZy7iSbkxxJ0Eklv66gjWAigy9\u002BimE\u002BYNKpNRGUSJFAUd1q/\u002BWx9/p6jo/s93urS51Kx3SGn1VFYCVu4uPvwngUySCbzXKl6ER5kQRbdjTVvjr61cW\u002Brubhp5pqyAngIo8uuuamNcNFqCAsxzL47McoVjV2zL2w2cXmBL6WZzoPdr4wlFS9uB20MREUmGSs5DAVEvidsJgU\u002BOSHMOaCpmy0RY3OWtz89b0siCRwOBWvrVZ4ghqwkiZoAkHCSlogJHXOHtOBpbAJi5zaDIo\u002Ba1ncgs0JuEc8dhanzGsCLdets1JTvPJcTvPYbiaSgCedS8nV5POWhEM\u002BWxQc6yqnwDaXwNNNziLaCB17tkB1OngGykqOwBYOS3DKFCWBspcR/qeJ0SHw28S78LtfR4PrNdSrA2hw9mNv7dsYutj8bcHXWslnQNfpg/1IkI3BmRRtdCAcvYdXuvtx5sUenDlxCr0nXsK5k71QVXd7wddayRHko8zSWjonh\u002ByckioSWGQwjSwS5gLCxh1EjFnEzD\u002BRyi7BIDtJ2UbnS2Q7mEDQQHBZZOSsaU\u002BWjAloP2PYiOtLSOhhpMw4VknHtAAMXRKU7UM\u002Bg5wDdliagewBPecIBQzTIqdBhJKLCMTnSS8gmuYM\u002BOuivBRKRD3gWco5lyQF0DQV\u002BpPJWDSqJjyuOnjcO1Cl1vJtmGQnKVsiaazZ3d7tP3J\u002BlAnYU\u002Bmcs3AvfNvc8DquKaYxxYRie219WzQcmOawLFNM3/hmaZCOZuSFEimwslZzy8flYMfRvmrv1mOSSwiqMxPDfmJ/2/n796auMgGlSlXkDnJMYu72rWuX5OX/ESZ1dp/uv15ZVd1IaKis8vgI9YSGU2cH5yorPY0VlZ4Ggi\u002BvG3vOvRHhe/n7xQzWijJ85dDkbt\u002B\u002BAzYFxoglYsEr7/xyfGC0/eumul2tgupmkT0aCz/6aHjs8JsfPne9odbfXLCHIsF/3h\u002B82VK2LCSKAvVA59FD0K0oJ44/Zh/6BMa8Ve6q1mNHOqBnoxSdgsnJ\u002B34qj2drdU3zs4efRDobp98PF8bHs3vID/\u002BElBWHYWTom/QulhPTCKRmoRlxLr\u002Bi62kEknewuDqBpdQMkuaqtKf0JB6Q7e/ILSysTiGlJ6SfDQl0ItAySYrUgJ7RiCDJ74KSJnuK1oZpkJMU0rrGCTo1XUeSSHRpT0CjPRJloxKJZNy8e/PnB608JVzXWCQdIqXFwtpf4zcCLWxjREL0ptGfi1AgNT/zq9jL/yOE0BFZ0RfJj71Rk9nuJnAAhTP83vEryxNSaufx5PlnW3F6SMgO41\u002B8H9ZGOztKDQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-28T14:05:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

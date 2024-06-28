@@ -1,0 +1,12 @@
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\bin\Debug\net8.0\ThucPhamSach_NVT_.Module.deps.json
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\bin\Debug\net8.0\ThucPhamSach_NVT_.Module.dll
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\bin\Debug\net8.0\ThucPhamSach_NVT_.Module.pdb
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.csproj.AssemblyReference.cache
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.AssemblyInfoInputs.cache
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.AssemblyInfo.cs
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.csproj.CoreCompileInputs.cache
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.dll
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\refint\ThucPhamSach_NVT_.Module.dll
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ThucPhamSach_NVT_.Module.pdb
+D:\CS 403\ThucPhamSach_NVT_\ThucPhamSach_NVT_.Module\obj\Debug\net8.0\ref\ThucPhamSach_NVT_.Module.dll
